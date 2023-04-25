@@ -1,0 +1,60 @@
+.section-benefits {
+    width: 1400px;
+    margin: 0 auto;
+    padding: 150px 123px 150px 123px;
+  }
+  .heading-benefits {
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 72px;
+    margin-bottom: 45px;
+    /* identical to box height */
+  
+    letter-spacing: -0.03em;
+  
+    color: #ffffff;
+  }
+  .enumeration-benefits {
+    background: #1bff07;
+    border-radius: 10px;
+    width: 45px;
+    height: 44px;
+    text-align: center;
+    margin-left: 2px;
+  }
+  .enumeration-benefits img {
+    margin-top: 9px;
+  }
+  .subtitle-benefits {
+    width: 720px;
+    margin-top: 15px;
+    margin-bottom: 16px;
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+    /* identical to box height */
+  
+    letter-spacing: -0.03em;
+  
+    color: #1bff07;
+  }
+  .subtitle-benefits-last{
+    width: 650px;
+  
+  }
+  .text-benefits {
+    width: 778px;
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    letter-spacing: -0.03em;
+  
+    color: #ffffff;
+    margin-bottom: 59px;
+  }

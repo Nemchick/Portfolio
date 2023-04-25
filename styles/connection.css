@@ -1,0 +1,53 @@
+.connection {
+    position: relative;
+    width: 1400px;
+    margin: 0 auto;
+    height: 717px;
+    background: #191c19;
+    border-radius: 30px;
+    margin-bottom: 150px;
+  }
+  .drawing {
+    position: absolute;
+    left: 673px;
+    border-radius: 30px;
+  }
+  .connection-title {
+    position: absolute;
+    left: 125px;
+    top: 320px;
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+  
+    color: #ffffff;
+  }
+  .snares-connection {
+    left: 125px;
+    position: absolute;
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    /* identical to box height, or 100% */
+  
+    letter-spacing: -0.03em;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .snares-connection:hover {
+    color: #1bff07;
+  }
+  .instagram {
+    top: 408px;
+  }
+  .telegram {
+    top: 488px;
+  }
+  .mail {
+    top: 568px;
+  }

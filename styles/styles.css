@@ -5,7 +5,11 @@
 @import "connection.css";
 @import "footer.css";
 @import "nav.css";
+@import "burger.css";
 
+html {
+  scroll-behavior: smooth;
+}
 body {
   background-color: black;
   font-family: "IBM Plex Mono", monospace;

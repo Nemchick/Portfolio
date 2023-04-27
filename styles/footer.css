@@ -80,6 +80,7 @@
     font-size: 14px;
     line-height: 19px;
     margin-top: 43px;
+    width: auto;
   }
   .footer-connection {
     font-size: 16px;
@@ -111,6 +112,7 @@
     font-size: 13px;
     line-height: 18px;
     margin-top: 0px;
+    width: auto;
   }
   .footer-connection {
     font-size: 13px;

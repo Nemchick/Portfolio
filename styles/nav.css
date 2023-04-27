@@ -44,16 +44,7 @@
   .nav-link:hover {
     color: #1bff07;
   }
-  .burger-btn{
-  display: none;
-  background-image: url("../resources/burger.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 50%;
-  width: 36px;
-  height: 24px;
-  cursor: pointer;
-  }
+  
   @media (max-width: 1199px) {
     .bloc-nav{
       width: 100%;

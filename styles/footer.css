@@ -37,3 +37,20 @@ footer {
   
     opacity: 0.5;
   }
+  .snares-connection {
+    left: 125px;
+    position: absolute;
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    /* identical to box height, or 100% */
+  
+    letter-spacing: -0.03em;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .snares-connection:hover {
+    color: #1bff07;
+  }
